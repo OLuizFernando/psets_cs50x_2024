@@ -1,0 +1,6 @@
+I think this listener would be an Orange Aurea
+
+To calculate the Aurea, I used the following command lines:
+
+SELECT AVG(energy), AVG(valence), AVG(danceability)
+FROM songs;
