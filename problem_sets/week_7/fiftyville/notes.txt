@@ -1,0 +1,30 @@
+robbery time:
+	10:15
+
+suspects:
+	Sofia - G412CB7 - (130) 555-0289 - 1695452385 - 3B
+	Kelsey - 0NTHK55 - (499) 555-9472 - 8294398571 - 6C
+	* Bruce - 94KL13X - (367) 555-5533 - 5773159633 - 4A
+
+suspect's ids:
+	sofia: 398010
+	kelsey: 560886
+	* bruce: 686048
+		account number: 49610011
+
+possible accomplices:
+	Jack - 52R0Y8U - (996) 555-8899 - 9029462229
+	Larry - O268ZZ0 - (892) 555-8872 - 2312901747
+	* Robin - 4V16VO0 - (375) 555-8161 - NULL 
+	Melissa - NULL - (717) 555-1342 - 7834357192
+
+flight informations:
+	id: 36
+	origin_id: 8
+	destination_id: 4
+	time: 08:20am
+
+destination airport:
+	acronym: LGA
+	name: LaGuardia Airport
+	city: New York City
