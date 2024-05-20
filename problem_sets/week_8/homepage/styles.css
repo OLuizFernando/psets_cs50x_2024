@@ -1,0 +1,22 @@
+.bg-primary-blue
+{
+    background-color: #3F37C9;
+    color: white;
+}
+
+.gray-card
+{
+    background-color: #343a40;
+    color: white;
+}
+
+.dark-card
+{
+    background-color: #212529;
+    color: white;
+}
+
+strong
+{
+    color: #4361EE;
+}
