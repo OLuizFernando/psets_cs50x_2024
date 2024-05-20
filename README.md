@@ -19,6 +19,7 @@ O curso é separado em semanas (Weeks) nos quais são abordados tópicos especí
 * [Week 5](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/week_5): Estruturas de Dados
 * [Week 6](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/week_6): Python
 * [Week 7](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/week_7): SQL
+* [Week 8](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/week_8): HTML, CSS, JavaScript
 
 ... Os problem sets das outras semanas ainda não foram resolvidos por mim.
 
