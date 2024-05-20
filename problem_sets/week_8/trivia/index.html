@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+        <script>
+            // TODO: Add code to check answers to questions
+            function checkAnswer1(event) {
+                let triggerObject = event.srcElement
+
+                if (triggerObject.innerHTML.toLowerCase() == "são paulo") {
+                    triggerObject.style.backgroundColor = "#77dd77"
+                    document.querySelector("#result1").innerHTML = "Correct!"
+                } else {
+                    triggerObject.style.backgroundColor = "#ff6961"
+                    document.querySelector("#result1").innerHTML = "Incorrect"
+                }
+            }
+
+            function checkAnswer2() {
+                answer = document.querySelector("input").value.toLowerCase()
+
+                if (answer == "hypertext markup language") {
+                    document.querySelector("#result2").innerHTML = "Correct!"
+                } else {
+                    document.querySelector("#result2").innerHTML = "Incorrect"
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+            <div class="section" id="multipleChoice">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <!-- TODO: Add multiple choice question here -->
+                <h3>What is the most populous city in South America?</h3>
+                <p id="result1"></p>
+                <button onclick="checkAnswer1(event)">Buenos Aires</button>
+                <button onclick="checkAnswer1(event)">Santiago</button>
+                <button onclick="checkAnswer1(event)">São Paulo</button>
+                <button onclick="checkAnswer1(event)">Bogotá</button>
+                <button onclick="checkAnswer1(event)">Lima</button>
+                <button onclick="checkAnswer1(event)">Rio de Janeiro</button>
+            </div>
+
+            <div class="section" id="freeResponse">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+                <!-- TODO: Add free response question here -->
+                <h3>What does the acronym HTML mean?</h3>
+                <p id="result2"></p>
+                <input type="text">
+                <button onclick="checkAnswer2()">Check Answer</button>
+            </div>
+        </div>
+    </body>
+</html>
