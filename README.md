@@ -12,14 +12,14 @@ O curso é separado em semanas (Weeks) nos quais são abordados tópicos especí
 
 ## Conceitos Abordados em Cada Problem Set
 
-* [Week 1](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/week_1): Linguagem C
-* [Week 2](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/week_2): Arrays
-* [Week 3](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/week_3): Algoritmos
-* [Week 4](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/week_4): Memória
-* [Week 5](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/week_5): Estruturas de Dados
-* [Week 6](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/week_6): Python
-* [Week 7](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/week_7): SQL
-* [Week 8](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/week_8): HTML, CSS, JavaScript
+* [Problem Set 1](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/pset1): Linguagem C
+* [Problem Set 2](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/pset2): Arrays
+* [Problem Set 3](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/pset3): Algoritmos
+* [Problem Set 4](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/pset4): Memória
+* [Problem Set 5](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/pset5): Estruturas de Dados
+* [Problem Set 6](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/pset6): Python
+* [Problem Set 7](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/pset7): SQL
+* [Problem Set 8](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/pset8): HTML, CSS, JavaScript
 
 ... Os problem sets das outras semanas ainda não foram resolvidos por mim.
 
