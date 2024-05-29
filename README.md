@@ -12,7 +12,7 @@ O curso é separado em semanas (Weeks) nos quais são abordados tópicos especí
 
 ## Conceitos Abordados em Cada Problem Set
 
-* [Problem Set 1](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/pset1): Linguagem C
+* [Problem Set 1](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/pset1): C
 * [Problem Set 2](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/pset2): Arrays
 * [Problem Set 3](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/pset3): Algoritmos
 * [Problem Set 4](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/pset4): Memória
