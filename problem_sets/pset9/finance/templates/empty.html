@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Portfolio
+{% endblock %}
+
+{% block main %}
+    <div class="alert alert-light" role="alert">
+        Your portfolio is empty.
+    </div>
+    <table class="table mt-5">
+        <thead>
+            <tr class="table-primary">
+                <th scope="col">Current Cash Balance</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>{{ current_cash }}</td>
+            </tr>
+        </tbody>
+    </table>
+{% endblock %}
