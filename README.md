@@ -20,8 +20,7 @@ O curso é separado em semanas (Weeks) nos quais são abordados tópicos especí
 * [Problem Set 6](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/pset6): Python
 * [Problem Set 7](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/pset7): SQL
 * [Problem Set 8](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/pset8): HTML, CSS, JavaScript
-
-... Os problem sets das outras semanas ainda não foram resolvidos por mim.
+* [Problem Set 9](https://github.com/OLuizFernando/cs50x_2024/tree/main/problem_sets/pset9): Flask
 
 ---
 
