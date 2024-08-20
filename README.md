@@ -21,6 +21,7 @@ The course is divided into weeks, each covering specific topics. Typically, a mo
 * [Problem Set 7](https://github.com/OLuizFernando/psets_cs50x_2024/tree/main/problem_sets/pset7): SQL
 * [Problem Set 8](https://github.com/OLuizFernando/psets_cs50x_2024/tree/main/problem_sets/pset8): HTML, CSS, JavaScript
 * [Problem Set 9](https://github.com/OLuizFernando/psets_cs50x_2024/tree/main/problem_sets/pset9): Flask
+* [PageFinder](https://github.com/OLuizFernando/pagefinder): My Final Project
 
 ---
 
